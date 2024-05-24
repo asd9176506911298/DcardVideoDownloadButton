@@ -2,7 +2,7 @@
 // @name         Dcard下載文章影片
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  文章標題上方會有下載影片按鈕，點一下就可以進去下載影片，如果沒有出現下載影片按鈕請按F5重新整理。
+// @description  影片上方會有下載影片按鈕，點一下就可以進去下載影片，如果沒有出現下載影片按鈕請按F5重新整理。
 // @author       Yuki.kaco
 // @match        *://*.dcard.tw/*
 // @icon         https://www.dcard.tw/_next/static/media/93a7e0749e4edfb00cf4ad4a6c1eb6c6-512.png
